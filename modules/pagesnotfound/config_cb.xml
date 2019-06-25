@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>pagesnotfound</name>
+    <displayName><![CDATA[P&aacute;ginas no encontradas]]></displayName>
+    <version><![CDATA[2.0.0]]></version>
+    <description><![CDATA[Agrega una pesta&ntilde;a en el Tablero de Estad&iacute;sticas, que muestra las p&aacute;ginas solicitadas por los visitantes que no han sido encontradas.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[analytics_stats]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

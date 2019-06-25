@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/es/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/es/blog/feed.xml</link>
+    <description></description>
+    <language>es</language>
+     <atom:link href="https://www.prestashop.com/es/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>8 Plantillas de PrestaShop para tu tienda de lencería online</title>
+    <link>https://www.prestashop.com/es/blog/plantillas-lenceria-online</link>
+    <description>¿Estás pensando en abrir un negocio de venta de lencería online y aún no conoces las mejores plantillas de PrestaShop para hacerlo aún más profesional?</description>
+     <pubDate>Wed, 19 Jun 2019 16:49:55 +0200</pubDate>
+ <dc:creator>Mariela Quiroga</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/plantillas-lenceria-online</guid>
+  </item>
+  <item>
+    <title>¿Cómo instalar el Módulo de eBay para destacar tu tienda en este marketplace?</title>
+    <link>https://www.prestashop.com/es/blog/destaca-tu-prestashop-en-marketplaces</link>
+    <description>¿Aún no has probado el módulo eBay para tu tienda PrestaShop?</description>
+     <pubDate>Fri, 14 Jun 2019 15:50:26 +0200</pubDate>
+ <dc:creator>Juan Luis Mora</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/destaca-tu-prestashop-en-marketplaces</guid>
+  </item>
+  <item>
+    <title>¿Qué es Google My Business y cómo darle de alta en mi eCommerce?</title>
+    <link>https://www.prestashop.com/es/blog/que-es-google-my-business</link>
+    <description>Google My Business es la carta de presentación de tu negocio en internet, todo lo que necesita saber tu cliente en un mismo lugar.</description>
+     <pubDate>Fri, 14 Jun 2019 14:40:42 +0200</pubDate>
+ <dc:creator>isabel.romero.carretero</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/que-es-google-my-business</guid>
+  </item>
+  <item>
+    <title>¿Cómo vender ropa personalizada online? Guía en 4 Pasos para tu tienda</title>
+    <link>https://www.prestashop.com/es/blog/vender-ropa-personalizada-online</link>
+    <description>Seguro que no es la primera vez que escuchas que el mundo eCommerce es el futuro de los negocios, en sectores tan novedosos como el de la ropa personalizada online.</description>
+     <pubDate>Thu, 13 Jun 2019 13:49:11 +0200</pubDate>
+ <dc:creator>Ana Llorente Pérez</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/vender-ropa-personalizada-online</guid>
+  </item>
+  <item>
+    <title>Agenda del &amp;quot;PrestaShop Day 2019 Madrid&amp;quot;, el evento eCommerce del año</title>
+    <link>https://www.prestashop.com/es/blog/agenda-prestashop-day-madrid</link>
+    <description>¿Has asistido ya a alguna de las anteriores ediciones del &quot;PrestaShop Day&quot; de Madrid?</description>
+     <pubDate>Mon, 10 Jun 2019 10:38:18 +0200</pubDate>
+ <dc:creator>Bertrand Amaraggi</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/agenda-prestashop-day-madrid</guid>
+  </item>
+  <item>
+    <title>Programa del PSD Madrid 2019: 18 Junio en la Nave ¡Apunta esta fecha!</title>
+    <link>https://www.prestashop.com/es/blog/programa-psd-madrid</link>
+    <description>¡Ya está aquí la 4ª edición de uno de los acontecimientos más importantes del año para la comunidad eCommerce! Se trata del “PrestaShop Day Madrid”.</description>
+     <pubDate>Fri, 07 Jun 2019 13:38:33 +0200</pubDate>
+ <dc:creator>Bertrand Amaraggi</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/programa-psd-madrid</guid>
+  </item>
+  <item>
+    <title>¿Qué es un banner y qué beneficios aporta a tu eCommerce?</title>
+    <link>https://www.prestashop.com/es/blog/que-es-un-banner</link>
+    <description>Ya lo tienes casi todo listo para empezar a vender, sin embargo, ¿has configurado de manera correcta los banners de tu sitio web?</description>
+     <pubDate>Thu, 06 Jun 2019 15:07:34 +0200</pubDate>
+ <dc:creator>Manuel Bordajandi</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/que-es-un-banner</guid>
+  </item>
+  <item>
+    <title>¿Qué es el ciclo de vida de un producto y cuáles son sus fases?</title>
+    <link>https://www.prestashop.com/es/blog/ciclo-de-vida-producto</link>
+    <description>¿Conoces todo lo relativo al ciclo de vida de los productos de tu eCommerce?</description>
+     <pubDate>Tue, 04 Jun 2019 11:44:09 +0200</pubDate>
+ <dc:creator>Daniel Díaz</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/ciclo-de-vida-producto</guid>
+  </item>
+  <item>
+    <title>¡Novedad! Con PrestaShop Checkout, gestionarás todos los tipos de pago desde una misma interfaz con total seguridad</title>
+    <link>https://www.prestashop.com/es/blog/prestashop-checkout</link>
+    <description>¡No esperes más! Descubre PrestaShop Checkout Built with PayPal, la innovadora solución de pago lanzada por PrestaShop, que potenciará tu actividad de e-commerce.</description>
+     <pubDate>Mon, 03 Jun 2019 18:29:20 +0200</pubDate>
+ <dc:creator>Eva Lacalle</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/prestashop-checkout</guid>
+  </item>
+  <item>
+    <title>¿Qué es un catálogo de productos y cómo elaborarlo paso a paso?</title>
+    <link>https://www.prestashop.com/es/blog/catalogo-de-productos</link>
+    <description>¿Tienes claro qué es un catálogo de productos y cómo elaborar el tuyo propio?</description>
+     <pubDate>Thu, 30 May 2019 10:36:51 +0200</pubDate>
+ <dc:creator>Jorge Domingo Aguilar</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/catalogo-de-productos</guid>
+  </item>
+  </channel>
+</rss>
